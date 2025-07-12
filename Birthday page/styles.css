@@ -1,0 +1,126 @@
+/*Reset*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*Base Styles*/
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+/*Header Section*/
+#headerContent{
+    background-color: black;
+    text-align: center;
+    padding: 100px;
+    font-size: 4rem;
+    color: white;
+}
+
+/*Title*/
+#headerContentBreakdown{
+    text-align: center;
+}
+
+/*Section 1*/
+#sectionOneContent{
+    display: flex;
+}
+
+#sectionOneContentImage{
+    width: 500px;
+    height: 400px;
+}
+
+#sectionOneContentScripture{
+    text-align: center;
+    font-size: 2rem;
+}
+
+/*Section 2*/
+#sectionTwoContent{
+    display: flex;
+}
+
+#sectionTwoContentImage{
+    width: 500px;
+    height: 400px;
+}
+
+#sectionTwoContentScripture{
+    text-align: center;
+    font-size: 2rem;
+}
+
+/*Section 3*/
+#sectionThreeContent{
+    display: flex;
+}
+
+#sectionThreeContentImage{
+    width: 500px;
+    height: 400px;
+}
+
+#sectionThreeContentScripture{
+    text-align: center;
+    font-size: 2rem;
+}
+
+/*Section 4*/
+#sectionFourContent{
+    display: flex;
+}
+
+#sectionFourContentImage{
+    width: 500px;
+    height: 400px;
+}
+
+#sectionFourContentScripture{
+    text-align: center;
+    font-size: 2rem;
+}
+
+/*Section 5*/
+#sectionFiveContent{
+    display: flex;
+}
+
+#sectionFiveContentImage{
+    width: 500px;
+    height: 400px;
+}
+
+#sectionFiveContentScripture{
+    text-align: center;
+    font-size: 2rem;
+}
+
+/*Section 6*/
+#sectionSixContent{
+    display: flex;
+}
+
+#sectionSixContentImage{
+    width: 500px;
+    height: 400px;
+}
+
+#sectionSixContentScripture{
+    text-align: center;
+    font-size: 2rem;
+}
+
+/*Footer*/
+#footerContent{
+    background-color: black;
+    text-align: center;
+    padding: 100px;
+    font-size: 4rem;
+    color: white;
+}
